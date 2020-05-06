@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Regression Test">
+<test name="Mercury Tours">
+<classes>
+
+<class name="testMercuryToursScripts.testRegister"></class>
+<class name="testMercuryToursScripts.testSignOn"></class>
+
+</classes>
+</test>
+</suite>
